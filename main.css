@@ -898,6 +898,15 @@ body {
   line-height: 15px;
   color: #5e5f61;
 }
+/* .container {
+  width: 1240px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+.advertise-img {
+  display: inline-block;
+  padding: 0;
+} */
 .container {
   width: 1240px;
   margin: 0 auto;
